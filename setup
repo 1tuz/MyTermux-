@@ -1,4 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 termux-setup-storage
-pkg get wget curl python python2 python3
+pkg get wget curl fakeroot python python2 python3
+echo "alias upg='apt update & apt upgrade'" & "alias debug='adb-devices'" & "alias backup='tar -zcf /sdcard/termux-backup.tar.gz -C /data/data/com.termux/files ./home ./usr
+'" & "alias restore='tar -zxf /sdcard/termux-backup.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions
+'">> ~/.zshrc
