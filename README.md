@@ -7,7 +7,7 @@
 ### TO DO :
 ### 3. Aliases
 ### 4. Wiki
-## Installation :
+## One-line installation :
 ```
 apt get git & git clone https://github.com/1tuz/Termux_plus.git & cd Termux_plus & chmod u+r setup & bash setup
 ```
