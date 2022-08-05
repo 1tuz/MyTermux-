@@ -1,4 +1,4 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 termux-setup-storage
-pkg get wget curl python python2 python3 & git clone https://github.com/1tuz/MyTermux- & cd MyTermux & chmod u+x setup & ,/setup
+pkg get wget curl python python2 python3
