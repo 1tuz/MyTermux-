@@ -1,4 +1,4 @@
-# Just simple, beatiful and useful Termux setup repository
+# Just a simple, beatiful and useful Termux setup repository
 ## What you need :
 ### 1. Termux from [F-Droid](https://f-droid.org/ru/packages/com.termux)
 ## QR Code of this project for mobile phone :
