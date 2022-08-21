@@ -4,7 +4,7 @@
 ## QR Code of this project for mobile phone :
 ![image](https://user-images.githubusercontent.com/58532577/183144744-edfc4ca9-a3a1-4cc6-b844-93827777b684.png)
 ## Sources :
-### 1. MyTemux
+### 1. [MyTemux](https://github.com/mayTermux/myTermux)
 ### 2. Musthave packages
 ### 3. Cool aliases (enter ```aliases``` to find them)
 ### 4. Wiki(TODO)
