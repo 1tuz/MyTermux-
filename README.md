@@ -6,8 +6,8 @@
 ## Sources :
 ### 1. MyTemux
 ### 2. Musthave packages
-### TO DO :
 ### 3. Cool aliases
+### TO DO :
 ### 4. Wiki
 ## One-line installation :
 ```
