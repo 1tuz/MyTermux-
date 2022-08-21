@@ -11,5 +11,5 @@
 ### 4. Wiki
 ## One-line installation :
 ```
-apt install git && git clone https://github.com/1tuz/Termux_plus.git && cd Termux_plus && chmod +x setup && bash setup
+pkg install git && git clone https://github.com/1tuz/Termux_plus.git && cd Termux_plus && chmod +x setup && bash setup
 ```
