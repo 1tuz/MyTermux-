@@ -6,9 +6,8 @@
 ## Sources :
 ### 1. MyTemux
 ### 2. Musthave packages
-### 3. Cool aliases
-### TO DO :
-### 4. Wiki
+### 3. Cool aliases (enter ```aliases``` to find them)
+### 4. Wiki(TODO)
 ## One-line installation :
 ```
 pkg install git && git clone https://github.com/1tuz/Termux_plus.git && cd Termux_plus && chmod +x setup.sh && bash setup.sh
