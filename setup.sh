@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# Setup permission
+# Setup storage permission
 termux-setup-storage
 # Install musthave packages
 pkg update && pkg upgrade && pkg install wget curl fakeroot python python2 python3 figlet x11-repo tsu root-repo
