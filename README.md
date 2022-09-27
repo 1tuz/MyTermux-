@@ -13,5 +13,5 @@ pkg install git && git clone https://github.com/1tuz/Termux_plus.git && cd Termu
 ```
 ## After installation, you can delete useless file by:
 ```
-rm -r MyTermux Termux_plus
+rm -rf MyTermux Termux_plus
 ```
