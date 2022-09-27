@@ -6,9 +6,12 @@
 ## Sources :
 ### 1. [MyTemux](https://github.com/mayTermux/myTermux)
 ### 2. Musthave packages
-### 3. Cool aliases (enter ```aliases``` to find them)
-### 4. Wiki(TODO)
+### 3. Cool aliases (in cmd type ```aliases``` and press Enter to find them)
 ## One-line installation :
 ```
 pkg install git && git clone https://github.com/1tuz/Termux_plus.git && cd Termux_plus && chmod +x setup.sh && bash setup.sh
+```
+## After installation, you can delete useless file by:
+```
+rm -r MyTermux Termux_plus
 ```
