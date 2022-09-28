@@ -11,7 +11,7 @@
 ```
 pkg install git && git clone https://github.com/1tuz/Termux_plus.git && cd Termux_plus && chmod +x setup.sh && bash setup.sh
 ```
-## After installation, you can delete useless file by:
+## After installation, you can delete installation files by:
 ```
 rm -rf MyTermux Termux_plus
 ```
